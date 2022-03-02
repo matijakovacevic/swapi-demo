@@ -2,7 +2,7 @@
 
 After cloning, 
 
-`git clone git@github.com:tinkermanpro/swapi-demo.git`
+`git clone git@github.com:matijakovacevic/swapi-demo.git`
 
 run
 
